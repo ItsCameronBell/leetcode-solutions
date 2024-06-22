@@ -1,5 +1,3 @@
-from typing import List
-
 """
 Time complexity: O(N)
 Space complextiy: O(1)
